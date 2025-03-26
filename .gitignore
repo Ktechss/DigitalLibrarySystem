@@ -1,0 +1,24 @@
+# Ignore class files (compiled Java bytecode)
+*.class
+
+# Ignore JAR files (deployment artifacts)
+*.jar
+
+# Ignore log files
+*.log
+
+# macOS system file
+.DS_Store
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# VSCode workspace settings
+.vscode/
+
+# Ignore build directories if any
+build/
+bin/
+target/
